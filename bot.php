@@ -21,7 +21,7 @@ if (!is_null($events['events'])) {
 
 			// Build message to reply back
 			$messages = [
-				'type' => 't',
+				'type' => 'text',
 				't' => 'Line Bot นะไม่ใช่คนมีไรพิมพ์ help เลย'
 				't' => 'Line Bot นะไม่ใช่คน'
 			];
